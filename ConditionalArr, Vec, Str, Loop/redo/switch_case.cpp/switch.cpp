@@ -2,8 +2,7 @@
 
 int main() {
     
-    switch(expression) {
-        
+    switch(expression) {        
         //unlike very high-level we to use break
         case const1:
             //doSomething
